@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KeepAlive</key>
+	<true/>
+	<key>Label</key>
+	<string>com.bf.ngIRCd</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/sbin/ngircd</string>
+		<string>--nodaemon</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/Library/Logs/ngIRCd.log</string>
+	<key>StandardOutPath</key>
+	<string>/Library/Logs/ngIRCd.log</string>
+</dict>
+</plist>
