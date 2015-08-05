@@ -155,3 +155,553 @@ hubot-irc@0.2.7 node_modules/hubot-irc
 [Wed Aug 05 2015 16:35:46 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
 [Wed Aug 05 2015 16:35:52 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
 [Wed Aug 05 2015 16:36:00 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> ls
+[Wed Aug 05 2015 16:56:37 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy die
+[Wed Aug 05 2015 16:56:40 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:56:40 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Aug 05 2015 16:56:40 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Aug 05 2015 16:56:41 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Wed Aug 05 2015 16:56:46 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Wed Aug 05 2015 16:56:54 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy ping
+[Wed Aug 05 2015 16:56:57 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy time
+[Wed Aug 05 2015 16:58:03 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy die
+[Wed Aug 05 2015 16:58:05 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:05 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-flip'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:58:15 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:16 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-flip'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:58:26 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:26 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-flip'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:58:36 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:36 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-flip'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:58:46 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:46 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:58:57 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:58:57 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:07 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:07 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:17 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:17 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:28 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:28 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:38 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:38 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:48 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:48 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 16:59:59 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 16:59:59 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:00:09 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:00:09 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:00:19 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:00:19 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:00:30 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:00:30 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:00:40 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:00:40 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:00:50 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:00:50 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:01:01 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:01:01 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:01:11 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:01:11 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:01:21 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:01:21 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+[Wed Aug 05 2015 17:01:31 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:01:31 GMT-0400 (EDT)] ERROR Error loading scripts from npm package - Error: Cannot find module 'hubot-fliptable'
+  at Function.Module._resolveFilename (module.js:336:15)
+  at Function.Module._load (module.js:278:25)
+  at Module.require (module.js:365:17)
+  at require (module.js:384:17)
+  at Robot.loadExternalScripts (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:296:11, <js>:223:27)
+  at /Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:123:11, <js>:128:26
+  at fs.js:334:14
+  at FSReqWrap.oncomplete (fs.js:95:15)
+
+hubot-fliptable@1.2.0 node_modules/hubot-fliptable
+└── coffee-script@1.6.3
+[Wed Aug 05 2015 17:01:43 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:01:43 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Aug 05 2015 17:01:43 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Aug 05 2015 17:01:44 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Wed Aug 05 2015 17:01:54 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Wed Aug 05 2015 17:02:04 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip
+[Wed Aug 05 2015 17:02:07 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip bob
+[Wed Aug 05 2015 17:02:14 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip more
+[Wed Aug 05 2015 17:05:22 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy die
+flip@0.1.1 node_modules/flip
+[Wed Aug 05 2015 17:07:22 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Wed Aug 05 2015 17:07:23 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Wed Aug 05 2015 17:07:23 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Wed Aug 05 2015 17:07:23 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Wed Aug 05 2015 17:07:40 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Wed Aug 05 2015 17:07:44 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip this
+[Wed Aug 05 2015 17:07:55 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy unflip this
+[Wed Aug 05 2015 17:08:12 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip unflip
+[Wed Aug 05 2015 17:08:19 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip
+[Wed Aug 05 2015 17:08:25 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy rage flip

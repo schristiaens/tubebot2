@@ -230,3 +230,234 @@ gyp ERR! node -v v0.12.7
 gyp ERR! node-gyp -v v2.0.1
 gyp ERR! not ok 
 npm WARN optional dep failed, continuing node-icu-charset-detector@0.1.0
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 21:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 21:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 21:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 21:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 21:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
+npm ERR! install Couldn't read dependencies
+npm ERR! Darwin 13.4.0
+npm ERR! argv "node" "/usr/local/bin/npm" "install"
+npm ERR! node v0.12.7
+npm ERR! npm  v2.12.1
+npm ERR! file /Users/bishopfox007/tubebot2/package.json
+npm ERR! code EJSONPARSE
+
+npm ERR! Failed to parse json
+npm ERR! Trailing comma in object at 22:6
+npm ERR!      },
+npm ERR!      ^
+npm ERR! File: /Users/bishopfox007/tubebot2/package.json
+npm ERR! Failed to parse package.json data.
+npm ERR! package.json must be actual JSON, not just JavaScript.
+npm ERR! 
+npm ERR! This is not a bug in npm.
+npm ERR! Tell the package author to fix their package.json file. JSON.parse
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /Users/bishopfox007/tubebot2/npm-debug.log
