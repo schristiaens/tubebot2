@@ -102,3 +102,56 @@
 [Wed Aug 05 2015 16:06:54 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
 [Wed Aug 05 2015 16:08:22 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
 [Wed Aug 05 2015 16:09:00 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> faffaf
+
+> node-icu-charset-detector@0.1.0 install /Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/node_modules/node-icu-charset-detector
+> node-gyp rebuild
+
+  CXX(target) Release/obj.target/node-icu-charset-detector/node-icu-charset-detector.o
+
+> iconv@2.1.8 install /Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/node_modules/iconv
+> node-gyp rebuild
+
+  CC(target) Release/obj.target/libiconv/deps/libiconv/lib/iconv.o
+  LIBTOOL-STATIC Release/iconv.a
+  CXX(target) Release/obj.target/iconv/src/binding.o
+  SOLINK_MODULE(target) Release/iconv.node
+hubot-maps@0.0.2 node_modules/hubot-maps
+
+hubot-shipit@0.2.0 node_modules/hubot-shipit
+
+hubot-help@0.1.1 node_modules/hubot-help
+
+hubot-diagnostics@0.0.1 node_modules/hubot-diagnostics
+
+hubot-google-images@0.1.5 node_modules/hubot-google-images
+
+hubot-pugme@0.1.0 node_modules/hubot-pugme
+
+hubot-rules@0.1.1 node_modules/hubot-rules
+
+hubot-google-translate@0.2.0 node_modules/hubot-google-translate
+
+hubot-heroku-keepalive@0.0.4 node_modules/hubot-heroku-keepalive
+
+hubot-redis-brain@0.0.3 node_modules/hubot-redis-brain
+└── redis@0.8.4
+
+hubot-scripts@2.16.1 node_modules/hubot-scripts
+└── redis@0.8.4
+
+hubot@2.13.2 node_modules/hubot
+├── optparse@1.0.4
+├── cline@0.8.2
+├── log@1.4.0
+├── scoped-http-client@0.11.0
+├── chalk@1.1.0 (escape-string-regexp@1.0.3, ansi-styles@2.1.0, supports-color@2.0.0, has-ansi@2.0.0, strip-ansi@3.0.0)
+├── coffee-script@1.6.3
+├── connect-multiparty@1.2.5 (qs@2.2.5, on-finished@2.1.1, type-is@1.5.7, multiparty@3.3.2)
+└── express@3.18.1 (basic-auth@1.0.0, utils-merge@1.0.0, merge-descriptors@0.0.2, fresh@0.2.4, cookie@0.1.2, escape-html@1.0.1, range-parser@1.0.2, vary@1.0.1, cookie-signature@1.0.5, media-typer@0.3.0, parseurl@1.3.0, methods@1.1.0, content-disposition@0.5.0, depd@1.0.1, debug@2.1.3, commander@1.3.2, proxy-addr@1.0.8, etag@1.5.1, send@0.10.1, mkdirp@0.5.0, connect@2.27.1)
+
+hubot-irc@0.2.7 node_modules/hubot-irc
+├── log@1.4.0
+└── irc@0.3.12 (ansi-color@0.2.1, irc-colors@1.2.0, iconv@2.1.8)
+[Wed Aug 05 2015 16:35:46 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Wed Aug 05 2015 16:35:52 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Wed Aug 05 2015 16:36:00 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> ls
