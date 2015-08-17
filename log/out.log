@@ -705,3 +705,1280 @@ flip@0.1.1 node_modules/flip
 [Wed Aug 05 2015 17:08:12 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip unflip
 [Wed Aug 05 2015 17:08:19 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip
 [Wed Aug 05 2015 17:08:25 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy rage flip
+[Wed Aug 05 2015 17:12:56 GMT-0400 (EDT)] INFO redsteve has left #BabyTownFrolics: undefined
+[Thu Aug 06 2015 10:58:44 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Thu Aug 06 2015 10:59:27 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Thu Aug 06 2015 10:59:39 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy rage flip all of the things
+[Thu Aug 06 2015 10:59:51 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> (ノಠ益ಠ)ノ彡 sƃuıɥʇ ǝɥʇ ɟo ʃʃɐ
+[Thu Aug 06 2015 12:00:49 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy flip test
+[Thu Aug 06 2015 12:13:36 GMT-0400 (EDT)] INFO redsteve has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Thu Aug 06 2015 12:17:50 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Thu Aug 06 2015 12:17:51 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Thu Aug 06 2015 12:17:51 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Thu Aug 06 2015 12:17:51 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Thu Aug 06 2015 12:23:17 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Thu Aug 06 2015 12:23:34 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Thu Aug 06 2015 12:53:05 GMT-0400 (EDT)] INFO redsteve1 has joined #BabyTownFrolics
+[Thu Aug 06 2015 12:54:00 GMT-0400 (EDT)] INFO redsteve has quit: #babytownfrolics (Client closed connection)
+[Thu Aug 06 2015 12:58:45 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Thu Aug 06 2015 12:58:56 GMT-0400 (EDT)] INFO redsteve1 has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Thu Aug 06 2015 13:44:30 GMT-0400 (EDT)] INFO redsteve1 has joined #BabyTownFrolics
+[Thu Aug 06 2015 13:45:08 GMT-0400 (EDT)] INFO redsteve has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Thu Aug 06 2015 13:48:52 GMT-0400 (EDT)] INFO redsteve1 has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Thu Aug 06 2015 14:12:31 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Thu Aug 06 2015 14:13:21 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy help
+[Thu Aug 06 2015 15:15:24 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy unflip test
+[Thu Aug 06 2015 15:15:31 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy unflip f7f62113050c525db43726cc881cc0ac57b9b542
+[Thu Aug 06 2015 15:15:51 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy translate me hola chica
+[Thu Aug 06 2015 15:16:04 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy translate me hola
+[Thu Aug 06 2015 15:16:20 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy translate me hola amigo
+[Thu Aug 06 2015 15:16:33 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy voice testing
+[Thu Aug 06 2015 15:16:35 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/voice.coffee:29:7, <js>:16:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 06 2015 15:16:48 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy time
+[Thu Aug 06 2015 15:16:57 GMT-0400 (EDT)] INFO #BabyTownFrolics <redsteve> indy pug me
+[Thu Aug 06 2015 17:06:57 GMT-0400 (EDT)] INFO redsteve has left #BabyTownFrolics: undefined
+[Fri Aug 07 2015 11:46:10 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Fri Aug 07 2015 12:52:08 GMT-0400 (EDT)] INFO Got private message from redsteve: volume .2
+[Fri Aug 07 2015 12:52:09 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 07 2015 12:52:17 GMT-0400 (EDT)] INFO Got private message from redsteve: open http://www.breadfish.co.uk
+[Fri Aug 07 2015 12:52:17 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:293:7, <js>:376:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:525:43)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 07 2015 12:53:23 GMT-0400 (EDT)] INFO Got private message from redsteve: cleanup
+[Fri Aug 07 2015 12:53:23 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 07 2015 13:36:02 GMT-0400 (EDT)] INFO redsteve has left #BabyTownFrolics: undefined
+[Mon Aug 10 2015 10:38:31 GMT-0400 (EDT)] ERROR Error: listen EADDRINUSE
+  at exports._errnoException (util.js:746:11)
+  at Server._listen2 (net.js:1139:19)
+  at listen (net.js:1182:10)
+  at Server.listen (net.js:1261:5)
+  at Function.app.listen (/Users/bishopfox007/tubebot2/node_modules/hubot/node_modules/express/lib/application.js:554:24)
+  at Robot.setupExpress (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:335:7, <js>:269:27)
+  at new Robot (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:56:7, <js>:50:14)
+  at Object.module.exports.loadBot (/Users/bishopfox007/tubebot2/node_modules/hubot/index.coffee:26:7, <js>:35:12)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:87:11, <js>:90:19)
+  at Object.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot/bin/hubot:5:1, <js>:154:4)
+  at Module._compile (module.js:460:26)
+
+[Mon Aug 10 2015 10:38:32 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Aug 10 2015 10:38:32 GMT-0400 (EDT)] INFO hubot-redis-brain: Data for hubot brain retrieved from Redis
+[Mon Aug 10 2015 10:38:32 GMT-0400 (EDT)] INFO Indy has joined #BabyTownFrolics
+[Mon Aug 10 2015 10:39:35 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Mon Aug 10 2015 10:39:49 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics (Client closed connection)
+[Mon Aug 10 2015 10:42:14 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Mon Aug 10 2015 10:43:48 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy open https://www.youtube.com/watch?v=uAFjgpuWREM
+[Mon Aug 10 2015 10:43:48 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Mon Aug 10 2015 11:07:29 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy say hello
+[Mon Aug 10 2015 11:07:31 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/say.coffee:25:7, <js>:9:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Mon Aug 10 2015 11:07:38 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy say "it is lonely here today"
+[Mon Aug 10 2015 11:07:40 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/say.coffee:25:7, <js>:9:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Mon Aug 10 2015 11:07:59 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy open https://www.youtube.com/watch?v=0oKyhEc8Gf0
+[Mon Aug 10 2015 11:07:59 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Mon Aug 10 2015 11:21:13 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy volume .5
+[Mon Aug 10 2015 11:21:14 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Mon Aug 10 2015 11:53:14 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy cleanup
+[Mon Aug 10 2015 11:53:14 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Mon Aug 10 2015 16:07:25 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics ("Leaving.")
+[Tue Aug 11 2015 10:43:59 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Tue Aug 11 2015 11:05:46 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics (Client closed connection)
+[Tue Aug 11 2015 11:12:37 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Tue Aug 11 2015 14:36:59 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Tue Aug 11 2015 14:42:13 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Tue Aug 11 2015 16:25:41 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics ("Leaving.")
+[Wed Aug 12 2015 12:00:26 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Wed Aug 12 2015 16:39:38 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics ("Leaving.")
+[Thu Aug 13 2015 11:02:34 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Thu Aug 13 2015 12:54:44 GMT-0400 (EDT)] INFO rob has joined #babytownfrolics
+[Thu Aug 13 2015 12:54:48 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=spf-IVE2gVg
+[Thu Aug 13 2015 12:54:48 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 12:54:55 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 10
+[Thu Aug 13 2015 12:54:56 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 12:55:00 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 5
+[Thu Aug 13 2015 12:55:00 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 12:56:09 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 3
+[Thu Aug 13 2015 12:56:09 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 12:56:17 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 4
+[Thu Aug 13 2015 12:56:18 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 12:59:17 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: close
+[Thu Aug 13 2015 12:59:23 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: kill
+[Thu Aug 13 2015 12:59:35 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: help
+[Thu Aug 13 2015 13:00:12 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 13:00:12 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 13:01:09 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open http://giphy.com/gifs/adventure-time-12oQNsLa6CccDu
+[Thu Aug 13 2015 13:01:09 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 13:03:53 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 13:03:53 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 13:03:56 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 13:03:56 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 14:20:57 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics (Client closed connection)
+[Thu Aug 13 2015 14:38:43 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open http://giphy.com/gifs/adventure-time-12oQNsLa6CccDu
+[Thu Aug 13 2015 14:38:43 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 14:53:34 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Thu Aug 13 2015 15:38:31 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 15:38:31 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 15:38:35 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.tumblr.com/tv
+[Thu Aug 13 2015 15:38:35 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 15:39:06 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy open https://www.youtube.com/watch?v=5FjWe31S_0g
+[Thu Aug 13 2015 15:39:06 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 15:39:12 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy volume .5
+[Thu Aug 13 2015 15:39:12 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 15:49:31 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 15:49:31 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 15:49:34 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=zxrdDHwZ0hg
+[Thu Aug 13 2015 15:49:34 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 15:50:34 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=zxrdDHwZ0hg
+[Thu Aug 13 2015 15:50:34 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 15:50:54 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 4
+[Thu Aug 13 2015 15:50:54 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 15:58:19 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.tumblr.com/tv
+[Thu Aug 13 2015 15:58:19 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 16:26:40 GMT-0400 (EDT)] INFO lunarca has left #BabyTownFrolics: undefined
+[Thu Aug 13 2015 17:01:00 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 17:01:00 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:01:18 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.tumblr.com/tv/adventuretime
+[Thu Aug 13 2015 17:01:18 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 17:05:28 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Thu Aug 13 2015 17:05:28 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:05:33 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=VJb3INrjfMU&list=PLuRQB7EaJyPuM5Ke9QJbzMEjc5Dybhvq7
+[Thu Aug 13 2015 17:05:33 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 17:05:48 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 2
+[Thu Aug 13 2015 17:05:48 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:05:51 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 1
+[Thu Aug 13 2015 17:05:51 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:16:44 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume .5
+[Thu Aug 13 2015 17:16:44 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:26:20 GMT-0400 (EDT)] INFO ATL has joined #BabyTownFrolics
+[Thu Aug 13 2015 17:26:44 GMT-0400 (EDT)] INFO #BabyTownFrolics <ATL> indycleanup
+[Thu Aug 13 2015 17:26:44 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:27:07 GMT-0400 (EDT)] INFO #BabyTownFrolics <ATL> indyopen https://www.youtube.com/watch?v=651E4R9RjAs
+[Thu Aug 13 2015 17:27:07 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Thu Aug 13 2015 17:28:55 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 8
+[Thu Aug 13 2015 17:28:55 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:28:57 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 2
+[Thu Aug 13 2015 17:28:57 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:08 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 1.5
+[Thu Aug 13 2015 17:29:08 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:27 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 2
+[Thu Aug 13 2015 17:29:27 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:32 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 3
+[Thu Aug 13 2015 17:29:32 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:36 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 5
+[Thu Aug 13 2015 17:29:36 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:40 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 10
+[Thu Aug 13 2015 17:29:40 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:29:46 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 20
+[Thu Aug 13 2015 17:29:46 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:29:54 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 90000
+[Thu Aug 13 2015 17:29:54 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:30:30 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 5
+[Thu Aug 13 2015 17:30:30 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:31:21 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 0
+[Thu Aug 13 2015 17:31:21 GMT-0400 (EDT)] INFO #BabyTownFrolics <ATL> rob: test
+[Thu Aug 13 2015 17:31:21 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Thu Aug 13 2015 17:31:32 GMT-0400 (EDT)] INFO #BabyTownFrolics <ATL> Indy: cleanup
+[Thu Aug 13 2015 17:31:32 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Thu Aug 13 2015 17:33:19 GMT-0400 (EDT)] INFO #BabyTownFrolics <ATL> Indy: clean yourself up your a fucking mess
+[Thu Aug 13 2015 17:34:12 GMT-0400 (EDT)] INFO ATL has quit: #babytownfrolics ("Leaving.")
+[Thu Aug 13 2015 17:34:12 GMT-0400 (EDT)] INFO rob has quit: #babytownfrolics (rob)
+[Fri Aug 14 2015 12:07:32 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Fri Aug 14 2015 12:10:28 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics (Client closed connection)
+[Fri Aug 14 2015 12:13:48 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics
+[Fri Aug 14 2015 13:53:48 GMT-0400 (EDT)] INFO rob has joined #babytownfrolics
+[Fri Aug 14 2015 14:05:03 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/playlist?list=PLEobpC-llEHbAkWQACO87AQtXHISgWlOR
+[Fri Aug 14 2015 14:05:03 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 14:05:06 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 1
+[Fri Aug 14 2015 14:05:06 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 14:05:23 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 14:05:23 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 14:05:28 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=I9QGpHScGug&list=PLEobpC-llEHbAkWQACO87AQtXHISgWlOR
+[Fri Aug 14 2015 14:05:28 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 14:05:33 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> rob: straight outta dunwoody?
+[Fri Aug 14 2015 14:05:43 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> gotta show alijohn
+[Fri Aug 14 2015 14:43:08 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 14:43:08 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 14:43:12 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=TM6TCGltfHM
+[Fri Aug 14 2015 14:43:12 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 14:52:43 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 14:52:43 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 14:52:47 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=Fh_dWEJlZYI
+[Fri Aug 14 2015 14:52:47 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 14:53:04 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 1.25
+[Fri Aug 14 2015 14:53:04 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 14:53:06 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 1.4
+[Fri Aug 14 2015 14:53:06 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 14:53:10 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 2
+[Fri Aug 14 2015 14:53:10 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 15:12:13 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 0
+[Fri Aug 14 2015 15:12:13 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:14:38 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 16:14:38 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:14:42 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 5
+[Fri Aug 14 2015 16:14:42 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:14:48 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 16:14:48 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:14:53 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=Us2C7fChb1c
+[Fri Aug 14 2015 16:14:53 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 16:15:04 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy volume 10
+[Fri Aug 14 2015 16:15:04 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:19:04 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy cleanup
+[Fri Aug 14 2015 16:19:04 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:19:35 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy open https://www.youtube.com/watch?v=ognnZ3r2qyQ
+[Fri Aug 14 2015 16:19:35 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 16:19:45 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy volume 7
+[Fri Aug 14 2015 16:19:45 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:19:49 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy cleanup
+[Fri Aug 14 2015 16:19:49 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:19:52 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy open https://www.youtube.com/watch?v=ognnZ3r2qyQ
+[Fri Aug 14 2015 16:19:52 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 16:21:01 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> indy volume 5
+[Fri Aug 14 2015 16:21:01 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:27:09 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 16:27:09 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:27:15 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=RgYADZ2CTXs
+[Fri Aug 14 2015 16:27:15 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 16:27:20 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 8
+[Fri Aug 14 2015 16:27:20 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:27:24 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: cleanup
+[Fri Aug 14 2015 16:27:24 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:27:28 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: open https://www.youtube.com/watch?v=RgYADZ2CTXs
+[Fri Aug 14 2015 16:27:28 GMT-0400 (EDT)] ERROR ReferenceError: ls is not defined
+  at TextListener.callback (/Users/bishopfox007/tubebot2/scripts/new.coffee:13:5, <js>:8:7)
+  at TextListener.Listener.call (/Users/bishopfox007/tubebot2/node_modules/hubot/src/listener.coffee:43:7, <js>:37:14)
+  at Robot.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/robot.coffee:230:9, <js>:154:33)
+  at IrcBot.Adapter.receive (/Users/bishopfox007/tubebot2/node_modules/hubot/src/adapter.coffee:66:5, <js>:47:25)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:257:7, <js>:342:21)
+  at Client.emit (events.js:118:17)
+  at Client.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:517:22)
+  at Client.emit (events.js:107:17)
+  at iterator (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:745:26)
+  at Array.forEach (native)
+  at Socket.<anonymous> (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:740:15)
+  at Socket.emit (events.js:107:17)
+  at readableAddChunk (_stream_readable.js:163:16)
+  at Socket.Readable.push (_stream_readable.js:126:10)
+  at TCP.onread (net.js:538:20)
+
+[Fri Aug 14 2015 16:31:53 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 6
+[Fri Aug 14 2015 16:31:53 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:32:53 GMT-0400 (EDT)] INFO #BabyTownFrolics <rob> Indy: volume 0
+[Fri Aug 14 2015 16:32:53 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/volume.coffee:27:7, <js>:10:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Socket.<anonymous> (child_process.js:1183:11)
+  at Socket.emit (events.js:107:17)
+  at Pipe.close (net.js:485:12)
+
+[Fri Aug 14 2015 16:32:57 GMT-0400 (EDT)] INFO #BabyTownFrolics <lunarca> indy cleanup
+[Fri Aug 14 2015 16:32:57 GMT-0400 (EDT)] ERROR TypeError: Cannot read property 'toString' of null
+  at Client._speak (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:957:13)
+  at Client.say (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/node_modules/irc/lib/irc.js:946:10)
+  at IrcBot.send (/Users/bishopfox007/tubebot2/node_modules/hubot-irc/src/irc.coffee:26:7, <js>:55:32)
+  at IrcResponse.Response.send (/Users/bishopfox007/tubebot2/node_modules/hubot/src/response.coffee:22:5, <js>:20:47)
+  at /Users/bishopfox007/tubebot2/scripts/new.coffee:23:7, <js>:21:13
+  at ChildProcess.exithandler (child_process.js:742:7)
+  at ChildProcess.emit (events.js:110:17)
+  at maybeClose (child_process.js:1015:16)
+  at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+
+[Fri Aug 14 2015 16:34:32 GMT-0400 (EDT)] INFO lunarca has quit: #babytownfrolics ("Leaving.")
+[Fri Aug 14 2015 18:15:37 GMT-0400 (EDT)] INFO rob has quit: #babytownfrolics (Ping timeout: 20 seconds)
+[Mon Aug 17 2015 09:20:07 GMT-0400 (EDT)] INFO redsteve has joined #BabyTownFrolics
+[Mon Aug 17 2015 10:39:12 GMT-0400 (EDT)] INFO lunarca has joined #babytownfrolics

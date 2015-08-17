@@ -7,5 +7,6 @@
   "hubot-redis-brain",
   "hubot-maps",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-giphy-gifme"
 ]
